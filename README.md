@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 <a href="https://lightaxis.github.io/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-1A1A1A?style=flat-square&logo=blogger&logoColor=white"/></a>
 <a href="mailto:jisuk500@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jisuk500@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-🔭 Currently, I have been working as a drone control and autonomous flight engineer for 3 years.  
-🌱 I am interested in control, path planning, computer science, game engine, and mathematics.  
-✨ I often create interesting libraries in C++, and I also try to implement various things within Minecraft using Lua.  
-⚡ My hobby is watching YouTube videos about space, physics & mathmatics.  
-
-### 💪 Skills
+- Currently, I have been working as a drone control and autonomous flight engineer for 3 years.   
+- I am interested in control, path planning, computer science, game engine, and mathematics.    
+- I often create interesting libraries in C++, and I also try to implement various things within Minecraft using Lua.     
+- My hobby is watching YouTube videos about space, physics & mathmatics.      
+  
+### <!--💪-->  Skills
 #### Languages
 <p>
  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
